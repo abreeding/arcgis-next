@@ -1,0 +1,27 @@
+{
+  "name": "arcgis-next",
+  "version": "0.0.1",
+  "author": "abreeding <abreeding@langan.com>",
+  "description": "ArcGIS ESM Modules for Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abreeding/arcgis-next.git"
+  },
+  "keywords": [
+    "arcgis",
+    "next",
+    "nextjs",
+    "next.js",
+    "react",
+    "esri"
+  ],
+  "bugs": {
+    "url": "https://github.com/abreeding/arcgis-next/issues"
+  },
+  "homepage": "https://github.com/abreeding/arcgis-next#readme"
+}
